@@ -1,0 +1,74 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+}
+.note
+{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  background-color: rgb(250, 111, 238);
+}
+body
+{
+  background-size: cover;	
+}
+  .div_speed
+  {
+  	float: left;
+  }
+  .div_speed_img
+  {
+  	width: 200px; 
+  	border-radius: 100px;
+  }
+  #speed
+  {
+  	font-size: 23px;
+  	margin: 11px;
+    background-color: rgb(253, 89, 248);
+    color: aliceblue;
+    font-weight: bold;
+  }
+  .div_volume
+  {
+  	float: right;	
+  }
+  .div_volume_img
+  {
+  	width: 200px; 
+  	border-radius: 100px;
+  }
+  #volume
+  {
+  	font-size: 23px;
+  	margin: 15px;
+    background-color: rgb(166, 81, 245);
+    color: aliceblue;
+    font-weight: bold;
+  }
+   .play_button
+  {
+  	width: 145px;
+  	font-size: 25px;
+  }
+    canvas 
+  {
+    border:5px solid rgb(252, 143, 214);
+    border-radius:20px;
+  }
+  #uni
+  {
+    background-color: rgb(244, 93, 199);
+    color: aliceblue;
+    font-weight: bold;
+  }
+  h1
+  {
+    color: aliceblue;
+    font-weight: bold;
+  }
